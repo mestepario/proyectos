@@ -31,7 +31,7 @@ La metodología  propusta para el proyecto consiste ...
 
 ### Diseño Eléctrico
 
-## Resultado y Discusión
+# Resultado y Discusión
 
 # Conclusiones y Recomendaciones
 
