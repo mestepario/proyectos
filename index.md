@@ -5,7 +5,7 @@ Autores:
 - Jonathan Esteban Sarango Torres
 
 
-# Propuesta Inicial Contenido
+# Propuesta Inicial de Contenido
 
 # Resumen
 
