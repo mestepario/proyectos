@@ -1,9 +1,11 @@
-# Propuesta Inicial
+# Diseño y Construcción de una Puesta a Tierra para los Laboratorios de Mecánica Automotriz y Electricidad del Instituto Tecnológico Superior Mariano Samaniego Basado en la Normativa del Instituto Ecuatoriano de Normalización.
 Autores:
-- Jonathan
-- Francisco
 
-# Contenido Propuesta Tesis
+- Francisco Javier Imaicela Sarango 
+- Jonathan Esteban Sarango Torres
+
+
+# Propuesta Inicial Contenido
 
 # Resumen
 
