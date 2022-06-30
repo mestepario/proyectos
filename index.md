@@ -2,7 +2,8 @@
 Autores:
 - Jonathan
 - Francisco
-## Contenido Propuesta Tesis
+
+# Contenido Propuesta Tesis
 
 # Resumen
 
