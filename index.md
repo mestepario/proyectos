@@ -3,22 +3,20 @@
 - Resumen
 - Abstract
 - Introducción
-- Marco Teórico
-
+1. **Marco Teórico**
 <!-- Contenido marco teórico .... -->
-
-- Metodología y Diseño
+2. **Metodología y Diseño**
   - Metodología
 <!--La metodología  propusta para el proyecto consiste ... -->
   - Requerimientos
   - Diseño Conceptual
-    - Diseño Específico
-      - Diseño Eléctrico
+  - Diseño Específico
+    - Diseño Eléctrico
     - Resultado y Discusión
-- Conclusiones y Recomendaciones
+3. **Conclusiones y Recomendaciones**
  - Conclusiones
- - Recomendaciones
-- Referencias
+ - Recomendaciones**
+5. **Referencias**
 
 <!-- Hager, (2020). *Regímenes de Neutro en Baja Tensión*.
 - NEC, (2018). *Instalaciones Eléctricas Residenciales*.
@@ -29,7 +27,7 @@
 - Instituto Ecuatoriano De Normalización INEN (2001). Código De Práctica Ecuatoriano CPE INEN 19:2001. 
 - Comité Ejecutivo de la Norma Ecuatoriana de la Construcción (2013). *Norma Ecuatoriana de Construcción NEC, Instalaciones Electromecánicas*. Cap. 15. Edición  Ministerio de Desarrollo Urbano y Vivienda (MIDUVI). -->
 
-- Anexos
+- **Anexos**
 **Autores:**
 - Francisco Javier Imaicela Sarango 
 - Jonathan Esteban Sarango Torres
