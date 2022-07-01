@@ -1,9 +1,10 @@
 # Tema: Diseño y Construcción de una Puesta a Tierra para los Laboratorios de Mecánica Automotriz y Electricidad del ITSMS Basado en la Normativa del INEN
 
+# Estructura
 - Resumen
 - Abstract
 - Introducción
-# Estructura
+
 ## 1. Marco Teórico
 ## 2. Metodología y Diseño
 
