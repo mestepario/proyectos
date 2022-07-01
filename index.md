@@ -28,6 +28,6 @@
 - Comité Ejecutivo de la Norma Ecuatoriana de la Construcción (2013). *Norma Ecuatoriana de Construcción NEC, Instalaciones Electromecánicas*. Cap. 15. Edición  Ministerio de Desarrollo Urbano y Vivienda (MIDUVI). -->
 
 - **Anexos**
-**Autores:**
-- Francisco Javier Imaicela Sarango 
-- Jonathan Esteban Sarango Torres
+- **Autores:**
+  - Francisco Javier Imaicela Sarango 
+  - Jonathan Esteban Sarango Torres
