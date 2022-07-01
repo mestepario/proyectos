@@ -2,24 +2,24 @@
 **Diseño y Construcción de una Puesta a Tierra para los Laboratorios de Mecánica Automotriz y Electricidad del ITSMS Basado en la Normativa del Instituto Ecuatoriano de Normalización**
 
 # Estructura Básica
-- Resumen
-- Abstract
-- Introducción
+- [ ] Resumen
+- [ ] Abstract
+- [x] Introducción
 
 ## Marco Teórico
 ## Metodología y Diseño
 
-- Metodología
-- Requerimientos
-- Diseño Conceptual
-- Diseño Específico
-  - Diseño Eléctrico
-- Resultado y Discusión
+- [ ] Metodología
+- [ ] Requerimientos
+- [ ] Diseño Conceptual
+- [ ] Diseño Específico
+  - [ ] Diseño Eléctrico
+- [ ] Resultado y Discusión
  
 ## Conclusiones y Recomendaciones
  
-- Conclusiones
-- Recomendaciones
+- [ ] Conclusiones
+- [ ] Recomendaciones
  
 ## Referencias
 
