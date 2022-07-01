@@ -3,18 +3,18 @@
 - Resumen
 - Abstract
 - Introducción
-1. **Marco Teórico**
-2. **Metodología y Diseño**
+1.**Marco Teórico**
+2.**Metodología y Diseño**
   - Metodología
   - Requerimientos
   - Diseño Conceptual
   - Diseño Específico
     - Diseño Eléctrico
     - Resultado y Discusión
-3. **Conclusiones y Recomendaciones**
+3.**Conclusiones y Recomendaciones**
  - Conclusiones
  - Recomendaciones**
-4. **Referencias**
+4.**Referencias**
 <!-- Hager, (2020). *Regímenes de Neutro en Baja Tensión*.
 - NEC, (2018). *Instalaciones Eléctricas Residenciales*.
 - *Norma ANSI/NFPA 70-250*
