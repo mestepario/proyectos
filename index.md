@@ -1,12 +1,12 @@
 # Tema: Diseño y Construcción de una Puesta a Tierra para los Laboratorios de Mecánica Automotriz y Electricidad del ITSMS Basado en la Normativa del INEN
 
-# Estructura
+# Estructura Básica
 - Resumen
 - Abstract
 - Introducción
 
-## 1. Marco Teórico
-## 2. Metodología y Diseño
+## Marco Teórico
+## Metodología y Diseño
 
 - Metodología
 - Requerimientos
@@ -15,12 +15,12 @@
   - Diseño Eléctrico
 - Resultado y Discusión
  
-## 3. Conclusiones y Recomendaciones
+## Conclusiones y Recomendaciones
  
 - Conclusiones
 - Recomendaciones
  
-## 4. Referencias
+## Referencias
 
 <!-- Hager, (2020). *Regímenes de Neutro en Baja Tensión*.
 - NEC, (2018). *Instalaciones Eléctricas Residenciales*.
@@ -31,7 +31,7 @@
 - Instituto Ecuatoriano De Normalización INEN (2001). Código De Práctica Ecuatoriano CPE INEN 19:2001. 
 - Comité Ejecutivo de la Norma Ecuatoriana de la Construcción (2013). *Norma Ecuatoriana de Construcción NEC, Instalaciones Electromecánicas*. Cap. 15. Edición  Ministerio de Desarrollo Urbano y Vivienda (MIDUVI). -->
 
-## 5. Anexos
+## Anexos
 
 - **Autores:**
   - Francisco Javier Imaicela Sarango 
