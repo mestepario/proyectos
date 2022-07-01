@@ -5,7 +5,7 @@
 - Francisco Javier Imaicela Sarango 
 - Jonathan Esteban Sarango Torres
 
-# Propuesta Inicial de Contenido
+## Propuesta Inicial de Contenido
 
 - Resumen
 - Abstract
