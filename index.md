@@ -2,8 +2,13 @@
 - [ ] Resumen
 - [ ] Abstract
 - [x] Introducción
+## Antecedentes
 
+- [x] Objetivos, Hipótesis, Justificación, Alcance y Delimitaciónes
 ## Marco Teórico
+
+- [x] Recopilación de información.
+
 ## Metodología y Diseño
 
 - [ ] Metodología
