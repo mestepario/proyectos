@@ -11,8 +11,8 @@
 
 ## Metodología y Diseño
 
-- [ ] Metodología
-- [ ] Requerimientos
+- [x] Metodología
+- [x] Requerimientos
 - [ ] Diseño Conceptual
 - [ ] Diseño Específico
   - [ ] Diseño Eléctrico
